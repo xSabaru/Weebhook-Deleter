@@ -1,6 +1,9 @@
 from colorama import init,Fore,Back,Style
+import os
 from requests import delete
 init()
+
+os.system('@title Simple weebhook deleter ^| by sabaru')
 
 """
 credits cvrwed
